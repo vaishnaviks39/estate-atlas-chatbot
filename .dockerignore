@@ -1,0 +1,10 @@
+venv/
+.env
+raw/
+data/.cache/
+__pycache__/
+*.pyc
+.git/
+.DS_Store
+inspect_page.py
+inspect_output.txt
